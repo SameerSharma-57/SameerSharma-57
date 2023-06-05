@@ -15,7 +15,7 @@ Currently Learning and exploring different fields
 ## Skills and Experience  
 - [<img src='images\Nodejs.png' alt='NodeJs' height='40'>](https://nodejs.org/en/about) NodeJs
 - [<img src='images\reactjs.png' alt='ReactJs' height='40'>](https://react.dev/) ReactJs
-- [<img src='images\cpp.png' alt='C++' height='40'>](https://isocpp.org/) [<img src='images\csharp.png' alt='C#' height='40'>](https://learn.microsoft.com/en-us/dotnet/csharp/) C++, C#
+- [<img src='images\cpp.png' alt='C++' height='40'>](https://isocpp.org/) [<img src='images\csharp.png' alt='C#' height='60'>](https://learn.microsoft.com/en-us/dotnet/csharp/) C++, C#
 <!-- [<img src='images\csharp.png' alt='C Sharp' height='40'>](https://learn.microsoft.com/en-us/dotnet/csharp/) -->
 
 
@@ -26,6 +26,6 @@ Currently Learning and exploring different fields
 
 
 ## Github Stats
-  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+  | <a href="https://github.com/SameerSharma-57/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SameerSharma-57&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sameer's github stats" /></a> | <a href="https://github.com/SameerSharma-57/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerSharma-57&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 
