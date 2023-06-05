@@ -10,3 +10,6 @@ Currently Learning and exploring different fields
   [<img src='images\linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sameer-sharma-673121230/)  [<img src='images\codeforces.png' alt='codeforces' height='40'>](https://codeforces.com/profile/Sameer_sharma)  [<img src='images\codechef.png' alt='codechef' height='40'>](https://www.codechef.com/users/sameer_sharma)  [<img src='images\itch.io.png' alt='itch-dot-io' height='40'>](https://itch.io/profile/sameer-sharma)  [<img src='images\LeetCode_logo_white_no_text.svg.png' alt='leetcode' height='40'>](https://leetcode.com/user3673P/)  
 
 
+  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+
+
