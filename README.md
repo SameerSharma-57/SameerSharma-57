@@ -15,7 +15,18 @@ Currently Learning and exploring different fields
 ## Skills and Experience  
 - [<img src='images\Nodejs.png' alt='NodeJs' height='40'>](https://nodejs.org/en/about) NodeJs
 - [<img src='images\reactjs.png' alt='ReactJs' height='40'>](https://react.dev/) ReactJs
-- [<img src='images\cpp.png' alt='C++' height='40'>](https://isocpp.org/) [<img src='images\c_sharp.png' alt='C#' height='40'>](https://learn.microsoft.com/en-us/dotnet/csharp/) C++, C#
+- [<img src='images\html_css_js.png' alt='HTML CSS JS' height='40'>](https://react.dev/) HTML, CSS and JavaScript
+
+
+- [<img src='images\unity.png' alt='Unity' height='40'>](https://unity.com/) [<img src='images\c_sharp.png' alt='C#' height='40'>](https://learn.microsoft.com/en-us/dotnet/csharp/)Unity C#
+
+
+- [<img src='images\cpp.png' alt='C++' height='40'>](https://isocpp.org/) [<img src='images\python.png' alt='Python' height='40'>](https://www.python.org/about/)  C++ Python
+-  [<img src='images\vs.png' alt='VS' height='40'>](https://visualstudio.microsoft.com/) [<img src='images\vscode.png' alt='VS code' height='40'>](https://code.visualstudio.com/)Visual Studio and Visual Studio Code 
+
+
+
+
 <!-- [<img src='images\csharp.png' alt='C Sharp' height='40'>](https://learn.microsoft.com/en-us/dotnet/csharp/) -->
 
 
