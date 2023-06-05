@@ -7,7 +7,6 @@ Currently Learning and exploring different fields
 </p>
  
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SameerSharma-57)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sameer-sharma-673121230/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Sameer_sharma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/sameer_sharma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/itch-dot-io.svg' alt='itch-dot-io' height='40'>](https://itch.io/profile/sameer-sharma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/user3673P/)  
+  [<img src='images\linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sameer-sharma-673121230/)  [<img src='images\codeforces.png' alt='codeforces' height='40'>](https://codeforces.com/profile/Sameer_sharma)  [<img src='images\codechef.png' alt='codechef' height='40'>](https://www.codechef.com/users/sameer_sharma)  [<img src='images\itch.io.png' alt='itch-dot-io' height='40'>](https://itch.io/profile/sameer-sharma)  [<img src='images\LeetCode_logo_white_no_text.svg.png' alt='leetcode' height='40'>](https://leetcode.com/user3673P/)  
 
 
