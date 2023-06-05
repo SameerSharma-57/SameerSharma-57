@@ -1,4 +1,4 @@
-### Sameer Sharma
+# Hi there! I am Sameer Sharma
 #### I love to do web and game development with a bit of competitive programming
 Currently Learning and exploring different fields
 <p align="center"> 
