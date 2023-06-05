@@ -18,7 +18,7 @@ Currently Learning and exploring different fields
 - [<img src='images\html_css_js.png' alt='HTML CSS JS' height='40'>](https://react.dev/) HTML, CSS and JavaScript
 
 
-- [<img src='images\unity.png' alt='Unity' height='40'>](https://unity.com/) [<img src='images\c_sharp.png' alt='C#' height='40'>](https://learn.microsoft.com/en-us/dotnet/csharp/)Unity C#
+- [<img src='images\unity.png' alt='Unity' height='40'>](https://unity.com/) [<img src='images\c_sharp.png' alt='C#' height='40'>](https://learn.microsoft.com/en-us/dotnet/csharp/)         Unity C#
 
 
 - [<img src='images\cpp.png' alt='C++' height='40'>](https://isocpp.org/) [<img src='images\python.png' alt='Python' height='40'>](https://www.python.org/about/)  C++ Python
