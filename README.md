@@ -9,7 +9,9 @@ Currently Learning and exploring different fields
 
 ## You can connect with me here
 
-  [<img src='images\Gmail.png' alt='Gmail' height='40'>](mailto::ssjpr57@gmail.com) &nbsp [<img src='images\linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sameer-sharma-673121230/)  [<img src='images\codeforces.png' alt='codeforces' height='40'>](https://codeforces.com/profile/Sameer_sharma)  [<img src='images\codechef.png' alt='codechef' height='40'>](https://www.codechef.com/users/sameer_sharma)  [<img src='images\itch.io.png' alt='itch-dot-io' height='60'>](https://itch.io/profile/sameer-sharma)  [<img src='images\LeetCode_logo_white_no_text.svg.png' alt='leetcode' height='40'>](https://leetcode.com/user3673P/)  
+  [<img src='images\Gmail.png' alt='Gmail' height='40'>](mailto::ssjpr57@gmail.com) [ssjpr57@gmail.com](mailto::ssjpr57@gmail.com)
+  
+  [<img src='images\linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sameer-sharma-673121230/)  [<img src='images\codeforces.png' alt='codeforces' height='40'>](https://codeforces.com/profile/Sameer_sharma)  [<img src='images\codechef.png' alt='codechef' height='40'>](https://www.codechef.com/users/sameer_sharma)  [<img src='images\itch.io.png' alt='itch-dot-io' height='60'>](https://itch.io/profile/sameer-sharma)  [<img src='images\LeetCode_logo_white_no_text.svg.png' alt='leetcode' height='40'>](https://leetcode.com/user3673P/)  
 
 
 ## Skills and Experience  
