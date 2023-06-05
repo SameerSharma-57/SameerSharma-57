@@ -16,7 +16,7 @@ Currently Learning and exploring different fields
 - [<img src='images\Nodejs.png' alt='NodeJs' height='40'>](https://nodejs.org/en/about) NodeJs
 - [<img src='images\reactjs.png' alt='ReactJs' height='40'>](https://react.dev/) ReactJs
 - [<img src='images\cpp.png' alt='C++' height='40'>](https://isocpp.org/) [<img src='images\csharp.png' alt='C#' height='40'>](https://learn.microsoft.com/en-us/dotnet/csharp/) C++, C#
-[<img src='images\csharp.png' alt='C Sharp' height='40'>](https://learn.microsoft.com/en-us/dotnet/csharp/)
+<!-- [<img src='images\csharp.png' alt='C Sharp' height='40'>](https://learn.microsoft.com/en-us/dotnet/csharp/) -->
 
 
 
