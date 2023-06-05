@@ -3,7 +3,7 @@
 Currently Learning and exploring different fields
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/SameerSharma-57/count.svg" />
+  <img src="https://profile-counter.glitch.me/SameerSharma-57/count.svg" height="80" />
 </p>
  
 
