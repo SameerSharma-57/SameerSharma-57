@@ -1,6 +1,6 @@
 # Hi there! This is Sameer Sharma 👋
 #### I love to do web and game development with a bit of competitive programming 🙂
-Currently Learning and exploring different fields
+I am a pre final year student at the prestigious Indian Institute of technology Jodhpur.
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/SameerSharma-57/count.svg" height="80" />
